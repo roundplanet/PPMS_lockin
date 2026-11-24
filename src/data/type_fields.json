@@ -1,0 +1,62 @@
+{
+  "ZIDIOSample": [
+    "timestamp",
+    "dio",
+    "time/trigger",
+    "time/dataloss",
+    "time/blockloss",
+    "time/ratechange",
+    "time/invalidtimestamp",
+    "time/mindelta"
+  ],
+  "ZIAuxInSample": [
+    "timestamp",
+    "auxin0",
+    "auxin1",
+    "time/trigger",
+    "time/dataloss",
+    "time/blockloss",
+    "time/ratechange",
+    "time/invalidtimestamp",
+    "time/mindelta"
+  ],
+  "ZIDemodSample": [
+    "timestamp",
+    "x",
+    "y",
+    "frequency",
+    "phase",
+    "dio",
+    "trigger",
+    "auxin0",
+    "auxin1",
+    "time/trigger",
+    "time/dataloss",
+    "time/blockloss",
+    "time/ratechange",
+    "time/invalidtimestamp",
+    "time/mindelta"
+  ],
+  "ZIScopeWave": [
+    "wave",
+    "timestamp",
+    "triggertimestamp",
+    "dt",
+    "channelenable",
+    "channelinput",
+    "triggerenable",
+    "triggerinput",
+    "channelbwlimit",
+    "channelmath",
+    "channelscaling",
+    "channeloffset",
+    "sequencenumber",
+    "segmentnumber",
+    "blocknumber",
+    "totalsamples",
+    "datatransfermode",
+    "blockmarker",
+    "flags",
+    "sampleformat"
+  ]
+}
